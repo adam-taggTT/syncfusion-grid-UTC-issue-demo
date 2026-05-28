@@ -6,4 +6,4 @@ It exists to reproduce the behavior in a minimal Angular app and is not intended
 
 ## Private status
 
-The project is already marked `"private": true` in `/tmp/workspace/adam-taggTT/syncfusion-grid-UTC-issue-demo/package.json` to prevent accidental package publication.
+The project is already marked `"private": true` in `package.json` to prevent accidental package publication.
